@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Scenes/interaction.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/models/3D Low-Poly Tables/Tables Demo.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/BrokenVector/LowPolyCarPack/Example.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
